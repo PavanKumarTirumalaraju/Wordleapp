@@ -14,10 +14,10 @@ Time spent: 8 hours spent in total
 The following **required** functionality is completed:
 
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [ X ] **User has 3 chances to guess a random 4 letter word**
+- [ X ] **After 3 guesses, user should no longer be able to submit another guess**
+- [ X ] **After each guess, user sees the "correctness" of the guess**
+- [ X  ] **After all guesses are taken, user can see the target word displayed**
 
 
 ## Video Walkthrough
@@ -25,6 +25,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 https://submissions.us-east-1.linodeobjects.com/and102/xW8BrKXP.gif
+
 
 
 IGIF created with ...  
